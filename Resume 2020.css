@@ -3,7 +3,7 @@ background-color: #EEE;
 }
 
 #page{
-width: 800px;
+width: 1000px;
 margin-left: auto;
 margin-right: auto;
 }
@@ -14,3 +14,74 @@ background: -webkit-linear-gradient(to right, #C06C84, #6C5B7B, #355C7D);  /* Ch
 background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 ;
 color: white;   }
+
+#content {
+padding: 15px;
+margin-bottom: 60%;
+}
+
+#picture{
+width: 40%;
+float: left;
+}
+
+#skills{
+width: 40%;
+float: right;
+}
+
+
+#history {
+padding: 15px;
+margin-bottom: 20%;
+}
+
+#vicisphoto {
+width: 20%;
+float: left;
+}
+
+#vicisinfo {
+width: 80%;
+float: right;
+;
+}
+
+#wright {
+padding: 15px;
+margin-bottom: 20%;
+}
+
+#wrightsphoto {
+width: 20%;
+float: left;
+}
+
+#wrightsinfo {
+width: 80%;
+float: right;
+}
+
+
+#food {
+padding: 15px;
+}
+
+
+#foodtruckphoto {
+width: 20%;
+float: left;
+}
+
+
+#foodtruckinfo{
+width: 80%;
+float: right;
+
+}
+
+
+
+#footer {
+clear: both;
+}
